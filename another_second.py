@@ -1,9 +1,6 @@
 from tkinter import Menu, Tk
 """
-Source: http://effbot.org/tkinterbook/menu.html
-
-
-
+    Source: http://effbot.org/tkinterbook/menu.html
 """
 root = Tk()
 
