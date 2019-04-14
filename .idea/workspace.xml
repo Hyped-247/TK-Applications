@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4347b64d-7d7e-4f52-b017-a5a25d3bd75d" name="Default Changelist" comment="" />
+    <list default="true" id="4347b64d-7d7e-4f52-b017-a5a25d3bd75d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/apps/third_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/third_app.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,16 +25,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/apps/third_app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="-289">
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/second_app.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
@@ -73,8 +75,8 @@
         <option value="$PROJECT_DIR$/tk_python.py" />
         <option value="$PROJECT_DIR$/another_second.py" />
         <option value="$PROJECT_DIR$/apps/first_app.py" />
-        <option value="$PROJECT_DIR$/apps/third_app.py" />
         <option value="$PROJECT_DIR$/apps/second_app.py" />
+        <option value="$PROJECT_DIR$/apps/third_app.py" />
       </list>
     </option>
   </component>
@@ -282,12 +284,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551760030631</updated>
-      <workItem from="1555212056450" duration="3529000" />
+      <workItem from="1555212056450" duration="3770000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3529000" />
+    <option name="totallyTimeSpent" value="3770000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -456,13 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/third_app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apps/second_app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -470,6 +465,13 @@
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/third_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
