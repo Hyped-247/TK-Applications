@@ -30,7 +30,7 @@ class GuessingGame:
         self.reset_button.grid(row=2, column=1)
 
     def validate(self, new_text):
-        if not new_text: # the field is being cleared
+        if not new_text:  # the field is being cleared
             self.guess = None
             return True
 

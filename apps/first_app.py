@@ -9,10 +9,10 @@ class MyFirstGUI:
         self.label = Label(master, text="This is our first GUI!")
         self.label.pack()
 
-        self.greet_button = Button(master, text="Greet", command=self.greet)
+        self.greet_button = Button(master, text="Greet", command=lambda: self.greet())
         self.greet_button.pack()
 
-        self.close_button = Button(master, text="Close", command=master.quit)
+        self.close_button = Button(master, text="Close", command=lambda: master.quit())
         self.close_button.pack()
 
     def greet(self):
